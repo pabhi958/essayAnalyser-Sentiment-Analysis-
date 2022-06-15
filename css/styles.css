@@ -1,0 +1,51 @@
+body{
+  background-color: #D3E4CD;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  background-color: #99A799;
+  padding: 30px;
+  margin: -20px -8px 0 -8px;
+  text-align: center;
+}
+.main-section{
+  background-color: #99A799;
+  margin: 100px 450px 80px 450px;
+  padding: 15px 0 15px 0;
+  text-align: center;
+}
+.img1{
+  width:450px;
+}
+.img2{
+  width: 450px;
+}
+.img3{
+  width: 450px;
+}
+.container-fluid{
+  padding-bottom: 20px;
+}
+.info1{
+  background-color: #99A799;
+  line-height: 2rem;
+  margin: 20px 350px 20px 350px;
+  padding: 10px;
+  text-align: center;
+
+}
+.info2{
+  background-color: #99A799;
+  line-height: 2rem;
+  margin: 20px 350px 20px 350px;
+  padding: 10px;
+  text-align: center;
+}
+
+.Copyright{
+  background-color: #99A799;
+  margin: 20px 350px -20px 350px;
+  padding: 20px;
+  text-align: center;
+
+}
